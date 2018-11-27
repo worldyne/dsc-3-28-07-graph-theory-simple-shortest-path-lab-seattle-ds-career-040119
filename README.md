@@ -1,5 +1,5 @@
 
-# Graph Theory: Simple and Shortest Paths - lab
+# Graph Theory: Simple and Shortest Paths - Lab
 
 ## Introduction
 In this lab, we shall work with Florentine families graph.
@@ -55,7 +55,7 @@ You will see above that the shortest paths may not necessarily be unique i.e. th
 
 
 
-## Calculate and draw the shortest path between Lamberteschi and Ridolfi families
+### Calculate and draw the shortest path between Lamberteschi and Ridolfi families
 
 - Create a function plot_paths(G, paths) that would take in a graph with calculated path(s)
 - Use `fruchterman_reingold_layout()`
